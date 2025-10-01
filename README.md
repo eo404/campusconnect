@@ -34,9 +34,10 @@ Make sure you have:
 ---
 
 ### 2️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/YOUR-USERNAME/CampusConnect.git
 cd CampusConnect
+
 3️⃣ Create a Virtual Environment
 # Windows
 python -m venv venv
